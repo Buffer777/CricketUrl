@@ -8,7 +8,7 @@
       "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
@@ -36,6 +36,19 @@
       "isVs": false,
       "timeStamp": ""
     },
+    {
+      "link": " https://vidmoly.to/embed-ia9zvhuco7cz.html",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
+      "teamAName": "Australia",
+      "teamBName": "West Indies",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": false,
+      "timeStamp": ""
+    },
+   
    
     {
       "link": "https://www.twitch.tv/cric_1995",
