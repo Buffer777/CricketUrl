@@ -21,7 +21,7 @@
       "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
@@ -33,9 +33,9 @@
       "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2022-12-14 08:30 AM +0500"
+      "timeStamp": ""
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
