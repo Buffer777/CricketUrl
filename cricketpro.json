@@ -45,7 +45,7 @@
       "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
