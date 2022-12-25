@@ -21,9 +21,9 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": false,
-      "timeStamp": ""
+      "timeStamp": "2022-12-26 10:00 AM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=sonysixendia&vw=100%&vh=100%",
@@ -57,9 +57,9 @@
       "teamBName": "South Africa",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": ""
+      "timeStamp": "2022-12-26 04:30 AM +0500"
     },
      {
       "link": "https://www.twitch.tv/cric_1995",
