@@ -16,9 +16,9 @@
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
       "teamAName": "Pakistan",
-      "teamBName": "England",
+      "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": false,
@@ -77,14 +77,14 @@
     {
       "link": "https://www.twitch.tv/cric_1994",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
       "teamAName": "Pakistan",
-      "teamBName": "England",
+      "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": false,
       "isLive": true,
       "isVs": false,
-      "timeStamp": ""
+      "timeStamp": "2022-12-26 10:00 AM +0500"
     }
   ],
   "package": "com.mindbuffersports.cricpro",
