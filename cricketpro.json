@@ -2,14 +2,14 @@
   
   "liveNow": [
     {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/OGhX3ELDvTTKUzjKkFgsnw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6nmMQSfhH-3TlBG1iSoqGA_96x96.png",
-      "teamAName": "Hurricanes",
-      "teamBName": "Renegades",
+      "link": "https://123ecast.me/embed.php?player=desktop&v=skysmixx&vw=100%&vh=100%",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/av7fDWNfIxQHt-8Ryi4zKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/ThjBfVZwlYCOhUZo6K2oaw_96x96.png",
+      "teamAName": "Melbourne",
+      "teamBName": "Sixers",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": ""
     },
