@@ -9,7 +9,7 @@
       "teamBName": "Perth Scorchers",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
@@ -21,7 +21,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2022-12-26 10:00 AM +0500"
     },
@@ -57,7 +57,7 @@
       "teamBName": "South Africa",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2022-12-26 04:30 AM +0500"
     },
