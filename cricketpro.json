@@ -45,7 +45,7 @@
       "teamBName": "Sydney Sixers",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2022-12-30 12:30 PM +0500"
     },
