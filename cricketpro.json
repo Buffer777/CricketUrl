@@ -9,7 +9,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2022-12-29 10:00 AM +0500"
     },
@@ -69,7 +69,7 @@
       "teamBName": "South Africa",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-04 04:30 AM +0500"
     },
