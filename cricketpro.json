@@ -93,7 +93,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": false,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": ""
     }
