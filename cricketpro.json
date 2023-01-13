@@ -21,7 +21,7 @@
       "teamBName": "Aperth Scorchers",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-13 12:30 PM +0500"
     },
