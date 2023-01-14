@@ -14,14 +14,14 @@
       "timeStamp": "2023-01-13 02:30 PM +0500"
     },
      {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
       "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamAName": "Strikers",
       "teamBName": "Heat",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2023-01-14 10:00 AM +0500"
     },
@@ -33,7 +33,7 @@
       "teamBName": "Renegades",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-14 01:30 PM +0500"
     },
@@ -45,7 +45,7 @@
       "teamBName": "Fortune",
       "bannerImagePath": "BPL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-14 12:30 PM +0500"
     },
