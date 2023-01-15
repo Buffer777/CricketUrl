@@ -21,7 +21,7 @@
       "teamBName": "Thunder",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-15 07:40 AM +0500"
     },
