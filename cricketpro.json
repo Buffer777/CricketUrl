@@ -57,7 +57,7 @@
       "teamBName": "Giants",
       "bannerImagePath": "SA20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-17 04:30 PM +0500"
     },
