@@ -2,40 +2,28 @@
   
   "liveNow": [
     {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
-      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Riders",
-      "teamBName": "Tigers",
-      "bannerImagePath": "BPL",
+      "link": "https://123ecast.me/embed.php?player=desktop&v=astrocric&vw=100%&vh=100%",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
+      "teamAName": "India",
+      "teamBName": "New Zealand",
+      "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-17 12:30 PM +0500"
+      "timeStamp": "2023-01-18 01:00 PM +0500"
     },
     {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
-      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Strikers",
-      "teamBName": "Victorians",
-      "bannerImagePath": "BPL",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-01-17 05:30 PM +0500"
-    },
-    {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamAName": "Hurricanes",
-      "teamBName": "Thunder",
+      "teamBName": "Scorchers",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-15 07:40 AM +0500"
+      "timeStamp": "2023-01-18 01:40 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
@@ -53,13 +41,13 @@
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamAName": "Royals",
-      "teamBName": "Giants",
+      "teamAName": "MI Cape Town",
+      "teamBName": "Eastern Cape",
       "bannerImagePath": "SA20",
       "isWeb": true,
       "isLive": false,
       "isVs": true,
-      "timeStamp": "2023-01-17 04:30 PM +0500"
+      "timeStamp": "2023-01-18 04:30 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
@@ -71,19 +59,31 @@
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-17 08:30 PM +0500"
+      "timeStamp": "2023-01-18 08:30 PM +0500"
     },
     {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=astrocric&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamAName": "India",
-      "teamBName": "New Zealand",
-      "bannerImagePath": "",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
+      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamAName": "Dhaka",
+      "teamBName": "Victorians",
+      "bannerImagePath": "BPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-18 01:00 PM +0500"
+      "timeStamp": "2023-01-19 12:30 PM +0500"
+    },
+    {
+      "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
+      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamAName": "Strikers",
+      "teamBName": "Victorians",
+      "bannerImagePath": "BPL",
+      "isWeb": true,
+      "isLive": false,
+      "isVs": true,
+      "timeStamp": "2023-01-17 05:30 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
