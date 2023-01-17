@@ -21,7 +21,7 @@
       "teamBName": "Victorians",
       "bannerImagePath": "BPL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-17 05:30 PM +0500"
     },
