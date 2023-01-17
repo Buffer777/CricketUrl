@@ -45,7 +45,7 @@
       "teamBName": "Eastern Cape",
       "bannerImagePath": "SA20",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2023-01-18 04:30 PM +0500"
     },
