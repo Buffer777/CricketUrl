@@ -32,7 +32,7 @@
       "teamAName": "Football",
       "teamBName": "Football",
       "bannerImagePath": "Football",
-      "isWeb": true,
+      "isWeb": false,
       "isLive": false,
       "isVs": false,
       "timeStamp": ""
