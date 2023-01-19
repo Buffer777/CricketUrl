@@ -17,8 +17,8 @@
     
     {
       "link": "Cricket links in below objects",
-      "teamAImagePath": "",
-      "teamBImagePath": "",
+      "teamAImagePath": "*",
+      "teamBImagePath": "*",
       "teamAName": "",
       "teamBName": "",
       "bannerImagePath": "",
