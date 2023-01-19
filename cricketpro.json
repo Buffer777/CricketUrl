@@ -2,6 +2,18 @@
   
   "liveNow": [
     {
+      "link": "Football",
+      "teamAImagePath": "Football",
+      "teamBImagePath": "Football",
+      "teamAName": "Football",
+      "teamBName": "Football",
+      "bannerImagePath": "Football",
+      "isWeb": true,
+      "isLive": false,
+      "isVs": false,
+      "timeStamp": ""
+    },
+    {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
