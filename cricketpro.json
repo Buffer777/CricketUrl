@@ -38,16 +38,28 @@
       "timeStamp": ""
     },
     {
+      "link": "https://123ecast.me/embed.php?player=desktop&v=astrocric&vw=100%&vh=100%",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamAName": "India",
+      "teamBName": "New Zealand",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-01-21 01:00 PM +0500"
+    },
+    {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamAName": "Brisbane Heat",
-      "teamBName": "Hobart Hurricanes",
+      "teamAName": "Sydney Thunder",
+      "teamBName": "Sydney Sixers",
       "bannerImagePath": "BBL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-20 01:15 PM +0500"
+      "timeStamp": "2023-01-21 01:15 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
@@ -66,60 +78,48 @@
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamAName": "Paarl Royals",
-      "teamBName": "Eastern Cape",
+      "teamBName": "MI Cape Town",
       "bannerImagePath": "SA20",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-19 04:30 PM +0500"
+      "timeStamp": "2023-01-21 04:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamAName": "Giants",
-      "teamBName": "Capitals",
+      "teamAName": "Eastern Cape",
+      "teamBName": "Super Kings",
       "bannerImagePath": "SA20",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-20 08:30 PM +0500"
+      "timeStamp": "2023-01-21 08:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
       "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
       "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Chattogram",
-      "teamBName": "Khulna",
+      "teamAName": "Challengers",
+      "teamBName": "Riders",
       "bannerImagePath": "BPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-20 12:30 PM +0500"
+      "timeStamp": "2023-01-23 12:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
       "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
       "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Minister Group Dhaka",
-      "teamBName": "Fortune Barishal",
+      "teamAName": "Victorians",
+      "teamBName": "Dhaka",
       "bannerImagePath": "BPL",
       "isWeb": true,
       "isLive": false,
       "isVs": true,
-      "timeStamp": "2023-01-19 05:30 PM +0500"
-    },
-    {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=astrocric&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
-      "teamAName": "India",
-      "teamBName": "New Zealand",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-01-21 01:00 PM +0500"
+      "timeStamp": "2023-01-23 05:30 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
