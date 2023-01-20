@@ -41,13 +41,13 @@
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamAName": "Sydney Thunder",
-      "teamBName": "Renegades",
+      "teamAName": "Brisbane Heat",
+      "teamBName": "Hobart Hurricanes",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-19 01:15 PM +0500"
+      "timeStamp": "2023-01-20 01:15 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
