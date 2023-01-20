@@ -117,7 +117,7 @@
       "teamBName": "Dhaka",
       "bannerImagePath": "BPL",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2023-01-23 05:30 PM +0500"
     },
