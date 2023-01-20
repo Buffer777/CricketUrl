@@ -83,7 +83,7 @@
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-19 08:30 PM +0500"
+      "timeStamp": "2023-01-20 08:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
@@ -95,7 +95,7 @@
       "isWeb": true,
       "isLive": false,
       "isVs": true,
-      "timeStamp": "2023-01-19 12:30 PM +0500"
+      "timeStamp": "2023-01-20 12:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
@@ -105,7 +105,7 @@
       "teamBName": "Fortune Barishal",
       "bannerImagePath": "BPL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-19 05:30 PM +0500"
     },
