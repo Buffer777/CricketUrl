@@ -126,24 +126,24 @@
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamAName": "Paarl Royals",
-      "teamBName": "MI Cape Town",
+      "teamBName": "Capitals",
       "bannerImagePath": "SA20",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-21 04:30 PM +0500"
+      "timeStamp": "2023-01-22 04:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamAName": "Eastern Cape",
-      "teamBName": "Super Kings",
+      "teamBName": "Super Giants",
       "bannerImagePath": "SA20",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-21 08:30 PM +0500"
+      "timeStamp": "2023-01-22 08:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
@@ -153,7 +153,7 @@
       "teamBName": "Riders",
       "bannerImagePath": "BPL",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2023-01-23 12:30 PM +0500"
     },
@@ -165,7 +165,7 @@
       "teamBName": "Dhaka",
       "bannerImagePath": "BPL",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2023-01-23 05:30 PM +0500"
     },
