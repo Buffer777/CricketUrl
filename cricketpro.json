@@ -102,13 +102,13 @@
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
       "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
       "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamAName": "Heat",
-      "teamBName": "Stars",
+      "teamAName": "Hurricanes",
+      "teamBName": "Sixers",
       "bannerImagePath": "BBL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-22 07:40 PM +0500"
+      "timeStamp": "2023-01-23 01:15 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
@@ -118,7 +118,7 @@
       "teamBName": "Scorchers",
       "bannerImagePath": "BBL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-22 01:15 PM +0500"
     },
@@ -126,13 +126,13 @@
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamAName": "Paarl Royals",
+      "teamAName": "MI Cape Town",
       "teamBName": "Capitals",
       "bannerImagePath": "SA20",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-22 04:30 PM +0500"
+      "timeStamp": "2023-01-23 08:30 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
@@ -184,15 +184,15 @@
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
-      "teamAImagePath": "https://play-lh.googleusercontent.com/F4zEJKeoY45Ca6aZuSQVyB05shBtu7_ETrJyYebn8-onurq8orvqyIllf49qj6xGqmI",
-      "teamBImagePath": "https://play-lh.googleusercontent.com/F4zEJKeoY45Ca6aZuSQVyB05shBtu7_ETrJyYebn8-onurq8orvqyIllf49qj6xGqmI",
-      "teamAName": "Pakistan",
-      "teamBName": "New Zealand",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+      "teamAName": "South Africa",
+      "teamBName": "England",
       "bannerImagePath": "PGA TOUR",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-13 02:30 PM +0500"
+      "timeStamp": "2023-01-27 04:00 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
