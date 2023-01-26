@@ -102,13 +102,13 @@
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp2",
       "teamAImagePath": "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg",
       "teamBImagePath": "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg",
-      "teamAName": "London Lions",
-      "teamBName": "Gran Canaria",
+      "teamAName": "Real Madrid",
+      "teamBName": "Barcelona",
       "bannerImagePath": "basketball",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-25 12:30 AM +0500"
+      "timeStamp": "2023-01-26 11:00 PM +0500"
     },
     {
       "link": "basketball",
