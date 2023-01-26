@@ -100,6 +100,18 @@
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp2",
+      "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WWE_%282014%29_logo.svg/1200px-WWE_%282014%29_logo.svg.png",
+      "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WWE_%282014%29_logo.svg/1200px-WWE_%282014%29_logo.svg.png",
+      "teamAName": "",
+      "teamBName": "",
+      "bannerImagePath": "basketball",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": ""
+    },
+    {
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp2",
       "teamAImagePath": "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg",
       "teamBImagePath": "https://img.freepik.com/free-vector/basketball-ball-isolated_1284-42545.jpg",
       "teamAName": "Real Madrid",
