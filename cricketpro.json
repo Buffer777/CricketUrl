@@ -106,7 +106,7 @@
       "teamBName": "",
       "bannerImagePath": "basketball",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
@@ -118,7 +118,7 @@
       "teamBName": "Barcelona",
       "bannerImagePath": "basketball",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-01-26 11:00 PM +0500"
     },
