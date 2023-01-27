@@ -58,7 +58,7 @@
     "teamBName": "Nottm Forest",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 08:00 PM +0500"
   },
@@ -70,7 +70,7 @@
     "teamBName": "Newcastle",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-01-21 10:30 PM +0500"
   },
@@ -82,7 +82,7 @@
       "teamBName": "Brisbane Roar",
       "bannerImagePath": "A-League Men",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
