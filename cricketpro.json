@@ -138,25 +138,25 @@
       "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
       "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
       "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamAName": "Dhaka Dominators",
+      "teamBName": "Rangpur Riders",
+      "bannerImagePath": "BPL",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-01-30 12:30 PM +0500"
+    },
+    {
+      "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
+      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
       "teamAName": "Khulna Tigers",
       "teamBName": "Strikers",
       "bannerImagePath": "BPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-28 05:30 PM +0500"
-    },
-    {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
-      "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamAName": "Eastern Cape",
-      "teamBName": "Paarl Royals",
-      "bannerImagePath": "SA20",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-01-24 04:30 PM +0500"
+      "timeStamp": "2023-01-30 05:30 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp2",
@@ -194,31 +194,6 @@
       "isVs": true,
       "timeStamp": "2023-02-01 06:30 PM +0500"
     },
-    
-    {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
-      "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamAName": "Brisbane Heat",
-      "teamBName": "Sydney Sixers",
-      "bannerImagePath": "BBL",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-02-02 01:15 PM +0500"
-    },
-    {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100",
-      "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
-      "teamAName": "Stars",
-      "teamBName": "Thunder",
-      "bannerImagePath": "BBL",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-01-25 01:15 PM +0500"
-    },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp2",
       "teamAImagePath": "https://pbs.twimg.com/media/FaTdbzaX0AA2X62.jpg",
@@ -232,18 +207,41 @@
       "timeStamp": "2023-01-28 03:00 PM +0500"
     },
     {
-      "link": "https://123ecast.me/embed.php?player=desktop&v=viaplayextra&vw=100%&vh=100%",
-      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Dhaka Dominators",
-      "teamBName": "Rangpur Riders",
-      "bannerImagePath": "BPL",
+      "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100",
+      "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
+      "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
+      "teamAName": "Stars",
+      "teamBName": "Thunder",
+      "bannerImagePath": "BBL",
+      "isWeb": true,
+      "isLive": false,
+      "isVs": true,
+      "timeStamp": "2023-01-30 01:15 PM +0500"
+    },
+    {
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysmixx",
+      "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
+      "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/c/c0/Big_Bash_League_%28logo%29.png",
+      "teamAName": "Brisbane Heat",
+      "teamBName": "Sydney Sixers",
+      "bannerImagePath": "BBL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-01-30 12:30 PM +0500"
+      "timeStamp": "2023-02-02 01:15 PM +0500"
     },
-     
+     {
+      "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100%",
+      "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
+      "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
+      "teamAName": "Super Giants",
+      "teamBName": "MI Cape Town",
+      "bannerImagePath": "SA20",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-02-02 08:30 PM +0500"
+    },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
@@ -252,7 +250,7 @@
       "teamBName": "Giants",
       "bannerImagePath": "SA20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-02 08:30 PM +0500"
     },
