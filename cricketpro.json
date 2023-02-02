@@ -9,7 +9,7 @@
     "teamBName": "Nottm Forest",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-02-02 01:00 AM +0500"
   },
@@ -106,7 +106,7 @@
       "teamBName": "",
       "bannerImagePath": "basketball",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": ""
     },
