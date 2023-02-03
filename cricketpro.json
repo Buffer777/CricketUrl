@@ -2,16 +2,16 @@
   
   "liveNow": [
      {
-    "link": "https://123ecast.me/embed.php?player=desktop&v=bein1en&vw=100%&vh=100%",
+    "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysprem",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName": "Man United",
-    "teamBName": "Nottm Forest",
+    "teamAName": "Chelsea",
+    "teamBName": "Fulham",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-02-02 01:00 AM +0500"
+    "timeStamp": "2023-02-04 01:00 AM +0500"
   },
      {
     "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysprem",
