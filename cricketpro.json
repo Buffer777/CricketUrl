@@ -2,16 +2,16 @@
   
   "liveNow": [
      {
-    "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysprem",
+    "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName": "Chelsea",
-    "teamBName": "Fulham",
+    "teamAName": "Everton",
+    "teamBName": "Arsenal",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-02-04 01:00 AM +0500"
+    "timeStamp": "2023-02-04 05:30 PM +0500"
   },
      {
     "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysprem",
