@@ -2,40 +2,40 @@
   
   "liveNow": [
      {
-    "link": "https://gocast2.com/crichdws.php?player=desktop&live=superpremier",
+    "link": "https://123ecast.me/embed.php?player=desktop&v=skysprem&vw=100%&vh=100%",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName": "Man United",
-    "teamBName": "Crystal Palace",
+    "teamAName": "Nottm Forest",
+    "teamBName": "Leeds United",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-02-04 08:00 PM +0500"
+    "timeStamp": "2023-02-05 07:00 PM +0500"
   },
      {
     "link": "https://gocast2.com/crichdws.php?player=desktop&live=skysprem",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName": "Arsenal",
-    "teamBName": "Man United",
+    "teamAName": "Tottenham",
+    "teamBName": "Man City",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-01-22 09:30 PM +0500"
+    "timeStamp": "2023-02-05 09:30 PM +0500"
   },
   {
-    "link": "https://123ecast.me/embed.php?player=desktop&v=skysme&vw=100%&vh=100%",
+    "link": "https://123ecast.me/embed.php?player=desktop&v=viaplaysp1&vw=100%&vh=100%",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName": "Leeds United",
-    "teamBName": "Brentford",
+    "teamAName": "Mallorca",
+    "teamBName": "Real Madrid",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-01-22 07:00 PM +0500"
+    "timeStamp": "2023-02-05 06:00 PM +0500"
   },
  
   {
