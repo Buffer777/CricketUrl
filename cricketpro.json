@@ -9,7 +9,7 @@
     "teamBName": "Leeds United",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-02-05 07:00 PM +0500"
   },
@@ -33,7 +33,7 @@
     "teamBName": "Real Madrid",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-02-05 06:00 PM +0500"
   },
@@ -190,7 +190,7 @@
       "teamBName": "Sunrisers",
       "bannerImagePath": "SA20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-05 04:30 PM +0500"
     },
