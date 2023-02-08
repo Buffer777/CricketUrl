@@ -9,7 +9,7 @@
     "teamBName": "Leeds United",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
     "timeStamp": "2023-02-05 07:00 PM +0500"
   },
