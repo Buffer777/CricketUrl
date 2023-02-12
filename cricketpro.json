@@ -158,31 +158,6 @@
       "isVs": true,
       "timeStamp": "2023-02-12 06:00 PM +0500"
     },
-    
-    {
-      "link": "https://123ecast.xyz/embed.php?v=viaplayextra&vw=100%&vh=100%",
-      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Rangpur Riders",
-      "teamBName": "Sylhet Strikers",
-      "bannerImagePath": "BPL",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-02-14 05:30 PM +0500"
-    },
-    {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl3",
-      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
-      "teamAName": "Sylhet Strikers",
-      "teamBName": "Comilla Victorians",
-      "bannerImagePath": "BPL",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-02-12 06:00 PM +0500"
-    },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
       "teamAImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
@@ -206,6 +181,30 @@
       "isLive": true,
       "isVs": true,
       "timeStamp": "2023-02-13 08:00 PM +0500"
+    },
+    {
+      "link": "https://123ecast.xyz/embed.php?v=viaplayextra&vw=100%&vh=100%",
+      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamAName": "Rangpur Riders",
+      "teamBName": "Sylhet Strikers",
+      "bannerImagePath": "BPL",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-02-14 05:30 PM +0500"
+    },
+    {
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=hdchnl3",
+      "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamBImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
+      "teamAName": "Sylhet Strikers",
+      "teamBName": "Comilla Victorians",
+      "bannerImagePath": "BPL",
+      "isWeb": true,
+      "isLive": false,
+      "isVs": true,
+      "timeStamp": "2023-02-12 06:00 PM +0500"
     },
     {
       "link": "https://123ecast.me/embed.php?player=desktop&v=skyscric&vw=100%&vh=100",
