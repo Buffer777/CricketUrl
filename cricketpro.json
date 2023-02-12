@@ -135,18 +135,6 @@
       "timeStamp": ""
     },
     {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-      "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
-      "teamAName": "Pretoria Capitals",
-      "teamBName": "Eastern Cape",
-      "bannerImagePath": "SA20",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-02-12 04:30 PM +0500"
-    },
-    {
       "link": "https://www.twitch.tv/cric_1995",
       "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
       "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
@@ -158,6 +146,19 @@
       "isVs": true,
       "timeStamp": "2023-02-12 04:30 PM +0500"
     },
+    {
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
+      "teamAImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
+      "teamBImagePath": "https://www.cricexec.com/wp-content/uploads/2022/11/sa20-logo.png",
+      "teamAName": "Pretoria Capitals",
+      "teamBName": "Eastern Cape",
+      "bannerImagePath": "SA20",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-02-12 04:30 PM +0500"
+    },
+    
     {
       "link": "https://123ecast.xyz/embed.php?v=viaplayextra&vw=100%&vh=100%",
       "teamAImagePath": "https://cricclubs.com/documentsRep/teamLogos/bpl.jpg",
