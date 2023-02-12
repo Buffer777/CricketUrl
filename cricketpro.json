@@ -141,7 +141,7 @@
       "teamAName": "India",
       "teamBName": "Pakistan",
       "bannerImagePath": "WT20",
-      "isWeb": true,
+      "isWeb": false,
       "isLive": true,
       "isVs": true,
       "timeStamp": "2023-02-12 06:00 PM +0500"
