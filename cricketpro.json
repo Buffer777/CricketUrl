@@ -153,7 +153,7 @@
       "teamAName": "Ireland",
       "teamBName": "England",
       "bannerImagePath": "WT20",
-      "isWeb": true,
+      "isWeb": false,
       "isLive": true,
       "isVs": true,
       "timeStamp": "2023-02-13 06:00 PM +0500"
