@@ -166,7 +166,7 @@
       "teamBName": "Bangladesh",
       "bannerImagePath": "WT20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-17 06:00 PM +0500"
     },
@@ -178,7 +178,7 @@
       "teamBName": "Ireland",
       "bannerImagePath": "WT20",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": "2023-02-17 10:00 PM +0500"
     },
