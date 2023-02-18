@@ -238,7 +238,7 @@
       "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-17 09:00 AM +0500"
     },
@@ -250,7 +250,7 @@
       "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-17 09:00 AM +0500"
     },
