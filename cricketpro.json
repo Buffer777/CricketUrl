@@ -142,7 +142,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-17 06:00 AM +0500"
     },
@@ -154,7 +154,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-17 06:00 AM +0500"
     },
@@ -178,7 +178,7 @@
       "teamBName": "Ireland",
       "bannerImagePath": "WT20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-17 10:00 PM +0500"
     },
