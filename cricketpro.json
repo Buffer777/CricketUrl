@@ -9,7 +9,7 @@
     "teamBName": "Barcelona",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-02-24 01:00 AM +0500"
   },
