@@ -2,16 +2,16 @@
   
   "liveNow": [
      {
-    "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
+    "link": "https://gocast2.com/footy.php?player=desktop&live=bbtsp2",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName":"Liverpool",
-    "teamBName": "Real Madrid",
+    "teamAName":"Man United",
+    "teamBName": "Barcelona",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-02-22 01:00 AM +0500"
+    "timeStamp": "2023-02-24 01:00 AM +0500"
   },
      {
     "link": "https://gocast2.com/footy.php?player=desktop&live=hdchnl8",
