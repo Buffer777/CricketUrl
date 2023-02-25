@@ -9,7 +9,7 @@
     "teamBName": "Aston Villa",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-02-25 08:00 PM +0500"
   },
@@ -21,7 +21,7 @@
     "teamBName": "Arsenal",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-02-25 08:00 PM +0500"
   },
