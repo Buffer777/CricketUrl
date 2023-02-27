@@ -166,7 +166,7 @@
       "teamBName": "South Africa",
       "bannerImagePath": "WT20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-26 06:00 PM +0500"
     },
@@ -178,7 +178,7 @@
       "teamBName": "South Africa",
       "bannerImagePath": "WT20",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-02-26 06:00 PM +0500"
     },
@@ -186,25 +186,25 @@
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
       "teamAImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
       "teamBImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
-      "teamAName": "Karachi Kings",
-      "teamBName": "Multan Sultans",
+      "teamAName": "Lahore Qalandars",
+      "teamBName": "Islamabad United",
       "bannerImagePath": "PSL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-02-26 02:00 PM +0500"
+      "timeStamp": "2023-02-27 07:00 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=tenspk",
       "teamAImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
       "teamBImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
       "teamAName": "Lahore Qalandars",
-      "teamBName": "Peshawar Zalmi",
+      "teamBName": "Islamabad United",
       "bannerImagePath": "PSL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-02-26 07:00 PM +0500"
+      "timeStamp": "2023-02-27 07:00 PM +0500"
     },
      {
       "link": "https://123ecast.xyz/embed.php?v=astrocric&vw=100%&vh=100%",
