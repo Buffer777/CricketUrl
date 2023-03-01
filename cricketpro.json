@@ -2,28 +2,28 @@
   
   "liveNow": [
      {
-    "link": "https://gocast2.com/footy.php?player=desktop&live=bein2prem",
+    "link": "https://gocast2.com/footy.php?player=desktop&live=bein1en",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamAName":"Everton",
-    "teamBName": "Aston Villa",
-    "bannerImagePath": "",
-    "isWeb": true,
-    "isLive": false,
-    "isVs": true,
-    "timeStamp": "2023-02-25 08:00 PM +0500"
-  },
-     {
-    "link": "https://123ecast.xyz/embed.php?v=superpremierleague&vw=100%&vh=100%",
-    "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName": "Leicester City",
     "teamBName": "Arsenal",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": false,
+    "isLive": true,
     "isVs": true,
-    "timeStamp": "2023-02-25 08:00 PM +0500"
+    "timeStamp": "2023-03-02 00:45 AM +0500"
+  },
+     {
+    "link": "https://gocast2.com/crichdws.php?player=desktop&live=bein3prem",
+    "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
+    "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
+    "teamAName": "Man Utd",
+    "teamBName": "West Ham",
+    "bannerImagePath": "",
+    "isWeb": true,
+    "isLive": true,
+    "isVs": true,
+    "timeStamp": "2023-03-02 00:45 AM +0500"
   },
   {
     "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
