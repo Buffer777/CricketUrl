@@ -9,7 +9,7 @@
     "teamBName": "Arsenal",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-03-02 00:45 AM +0500"
   },
@@ -21,7 +21,7 @@
     "teamBName": "West Ham",
     "bannerImagePath": "",
     "isWeb": true,
-    "isLive": true,
+    "isLive": false,
     "isVs": true,
     "timeStamp": "2023-03-02 00:45 AM +0500"
   },
