@@ -1,17 +1,17 @@
 {
   
   "liveNow": [
-     {
-    "link": "https://gocast2.com/footy.php?player=desktop&live=bein1en",
+     { 
+    "link": "https://gocast2.com/footy.php?player=desktop&live=bbtsp1",
     "teamAImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
     "teamBImagePath": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Football_%28soccer_ball%29.svg/1927px-Football_%28soccer_ball%29.svg.png",
-    "teamAName":"Everton",
-    "teamBName": "Arsenal",
+    "teamAName":"Barcelona",
+    "teamBName": "Real Madrid",
     "bannerImagePath": "",
     "isWeb": true,
     "isLive": false,
     "isVs": true,
-    "timeStamp": "2023-03-02 00:45 AM +0500"
+    "timeStamp": "2023-03-03 01:00 AM +0500"
   },
      {
     "link": "https://gocast2.com/crichdws.php?player=desktop&live=bein3prem",
