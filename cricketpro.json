@@ -159,16 +159,16 @@
       "timeStamp": "2023-02-28 03:00 AM +0500"
     },
     {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=asportshd",
-      "teamAImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
-      "teamBImagePath": "https://www.shutterstock.com/image-vector/psl-letter-logo-design-element-600w-2247512161.jpg",
-      "teamAName": "Multan Sultans",
-      "teamBName": "Lahore Qalandars",
-      "bannerImagePath": "PSL",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
+      "teamAImagePath": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/355900/355992.png",
+      "teamBImagePath": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_80/lsci/db/PICTURES/CMS/355900/355991.png",
+      "teamAName": "World Giants",
+      "teamBName": "Asia Lions",
+      "bannerImagePath": "LLC",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-03-18 07:00 PM +0500"
+      "timeStamp": "2023-03-20 07:30 PM +0500"
     },
     {
       "link": "https://gocast2.com/crichdws.php?player=desktop&live=ptvpk",
