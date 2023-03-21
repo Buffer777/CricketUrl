@@ -166,7 +166,7 @@
       "teamBName": "Asia Lions",
       "bannerImagePath": "LLC",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-03-20 07:30 PM +0500"
     },
@@ -192,7 +192,7 @@
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-03-18 04:00 PM +0500"
+      "timeStamp": "2023-03-21 01:00 PM +0500"
     },
     {
       "link": "https://123ecast.xyz/embed.php?v=bbtsp2&vw=100%&vh=100%",
