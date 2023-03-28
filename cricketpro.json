@@ -142,7 +142,7 @@
       "teamBName": "Afghanistan",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-03-27 09:00 PM +0500"
     },
@@ -154,7 +154,7 @@
       "teamBName": "Afghanistan",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-03-27 09:00 PM +0500"
     },
