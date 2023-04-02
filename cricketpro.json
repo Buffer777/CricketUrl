@@ -180,7 +180,7 @@
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-03 03:00 PM +0500"
+      "timeStamp": "2023-04-02 03:00 PM +0500"
     },
       {
       "link": "https://millionscast.com/video.php?player=desktop&live=willowusa",
@@ -238,12 +238,12 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-04-02 06:00 AM +0500"
     },
     {
-      "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp2",
+      "link": "https://gocast2.com/crichdws.php?player=desktop&live=bbtsp1",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
       "teamAName": "Sri Lanka",
