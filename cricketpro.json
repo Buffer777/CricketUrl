@@ -162,47 +162,47 @@
       "link": "https://millionscast.com/video.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "CSK",
-      "teamBName": "LSG",
+      "teamAName": "DC",
+      "teamBName": "GT",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-03 07:00 PM +0500"
+      "timeStamp": "2023-04-04 07:00 PM +0500"
     },
       {
       "link": "https://gocast2.com/footy.php?player=desktop&live=star1in",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "CSK",
-      "teamBName": "LSG",
+      "teamAName": "DC",
+      "teamBName": "GT",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-03 07:00 PM +0500"
+      "timeStamp": "2023-04-04 07:00 PM +0500"
     },
       {
       "link": "https://millionscast.com/video.php?player=desktop&live=willowusa",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "CSK",
-      "teamBName": "LSG",
+      "teamAName": "DC",
+      "teamBName": "GT",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-03 07:00 PM +0500"
+      "timeStamp": "2023-04-04 07:00 PM +0500"
     },
     {
-      "link": "https://millionscast.com/video.php?player=desktop&live=hdchnl16",
+      "link": "https://gocast2.com/footy.php?player=desktop&live=hdchnl16",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
       "teamAName": "Bangladesh",
       "teamBName": "Ireland",
       "bannerImagePath": "PGA TOUR",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
       "timeStamp": ""
     },
