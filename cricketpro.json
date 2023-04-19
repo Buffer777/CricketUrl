@@ -2,6 +2,18 @@
   
   "liveNow": [
     {
+      "link": "https://gocast2.com/footy.php?player=desktop&live=bein1en",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+      "teamAName": "Bayern",
+      "teamBName": "Man City",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-04-20 00:00 AM +0500"
+    },
+    {
       "link": "https://gocast2.com/footy.php?player=desktop&live=ptvpk",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
