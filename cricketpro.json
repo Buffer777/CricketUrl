@@ -9,7 +9,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-04-24 09:00 PM +0500"
     },
@@ -43,37 +43,37 @@
       "link": "https://millionscast.com/video.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "MI",
-      "teamBName": "PBKS",
+      "teamAName": "RCB",
+      "teamBName": "RR",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-22 07:00 PM +0500"
+      "timeStamp": "2023-04-23 03:00 PM +0500"
     },
       {
       "link": "https://gocast2.com/footy.php?player=desktop&live=star1in",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "MI",
-      "teamBName": "PBKS",
+      "teamAName": "RCB",
+      "teamBName": "RR",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-22 07:00 PM +0500"
+      "timeStamp": "2023-04-23 03:00 PM +0500"
     },
       {
       "link": "https://millionscast.com/video.php?player=desktop&live=willowusa",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "MI",
-      "teamBName": "PBKS",
+      "teamAName": "KKR",
+      "teamBName": "CSK",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-22 07:00 PM +0500"
+      "timeStamp": "2023-04-23 07:00 PM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
