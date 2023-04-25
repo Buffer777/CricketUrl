@@ -8,9 +8,9 @@
       "teamBName": "Ireland",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-24 09:30 AM +0500"
+      "timeStamp": ""
     },
     
     {
@@ -21,7 +21,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-04-24 09:00 PM +0500"
     },
@@ -33,7 +33,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-04-24 09:00 PM +0500"
     },
@@ -45,7 +45,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-04-24 09:00 PM +0500"
     },
@@ -55,37 +55,37 @@
       "link": "https://millionscast.com/video.php?player=desktop&live=skyscric",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "SRH",
-      "teamBName": "DC",
+      "teamAName": "GT",
+      "teamBName": "MI",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-24 07:00 PM +0500"
+      "timeStamp": "2023-04-25 07:00 PM +0500"
     },
       {
       "link": "https://gocast2.com/footy.php?player=desktop&live=star1in",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "SRH",
-      "teamBName": "DC",
+      "teamAName": "GT",
+      "teamBName": "MI",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-24 07:00 PM +0500"
+      "timeStamp": "2023-04-25 07:00 PM +0500"
     },
       {
       "link": "https://millionscast.com/video.php?player=desktop&live=willowusa",
       "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
       "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "SRH",
-      "teamBName": "DC",
+      "teamAName": "GT",
+      "teamBName": "MI",
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-04-24 07:00 PM +0500"
+      "timeStamp": "2023-04-25 07:00 PM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
