@@ -47,8 +47,8 @@
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-05-21 03:00 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
       {
         
@@ -60,8 +60,8 @@
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-05-21 03:00 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
       {
       "link": "https://millionscast.com/video.php?player=desktop&live=willowusa",
@@ -72,8 +72,8 @@
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-05-21 07:00 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
