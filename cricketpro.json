@@ -2,16 +2,16 @@
   "liveNow": [
    
     {
-      "link": "https://millionscast.com/video.php?player=desktop&live=skysprem",
+      "link": "https://millionscast.com/video.php?player=desktop&live=hdchnl1",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
       "teamAName": "Man United",
-      "teamBName": "Chelsea",
+      "teamBName": "Man City",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-05-26 00:00 AM +0500"
+      "timeStamp": "2023-06-03 7:00 PM +0500"
     },
     {
       "link": "https://millionscast.com/video.php?player=desktop&live=skysmixx",
@@ -73,7 +73,7 @@
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-06-02 09:30 AM +0500"
+      "timeStamp": "2023-06-04 09:30 AM +0500"
     },
     {
       "link": "https://www.twitch.tv/cric_1994",
