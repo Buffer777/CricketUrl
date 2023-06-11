@@ -9,7 +9,7 @@
       "teamBName": "Inter",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-06-11 12:00 AM +0500"
     },
@@ -46,8 +46,8 @@
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-06-07 02:30 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
       
      
@@ -60,8 +60,8 @@
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-06-07 02:30 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
     {
       "link": "https://millionscast.com/video.php?player=desktop&live=tenspk",
