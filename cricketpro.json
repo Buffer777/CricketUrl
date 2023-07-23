@@ -9,7 +9,7 @@
       "teamBName": "Pakistan",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-07-23 08:00 PM +0500"
     },
@@ -45,9 +45,9 @@
       "teamBName": "Sri Lanka",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-07-16 09:00 AM +0500"
+      "timeStamp": "2023-07-24 09:00 AM +0500"
     },
     {
       "link": "https://pipcast.cc/embed.php?v=ten2endia&vw=100%&vh=100%",
@@ -57,9 +57,9 @@
       "teamBName": "Sri Lanka",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-07-16 09:00 AM +0500"
+      "timeStamp": "2023-07-24 09:00 AM +0500"
     },
     
       {
@@ -70,7 +70,7 @@
       "teamBName": "Australia",
       "bannerImagePath": "IPL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-07-19 03:00 PM +0500"
     },
