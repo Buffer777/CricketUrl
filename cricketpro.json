@@ -40,7 +40,7 @@
       "timeStamp": "2023-07-27 03:00 PM +0500"
     },
     {
-      "link": "https://pipcast.cc/embed.php?v=bbbtsp1&vw=100%&vh=100%",
+      "link": "https://pipcast.cc/embed.php?v=btsp1&vw=100%&vh=100%",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
       "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
       "teamAName": "India",
@@ -71,7 +71,7 @@
       "teamBName": "Sri Lanka",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-07-24 09:00 AM +0500"
     },
@@ -83,7 +83,7 @@
       "teamBName": "Sri Lanka",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-07-24 09:00 AM +0500"
     },
