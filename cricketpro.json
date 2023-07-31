@@ -22,7 +22,7 @@
       "bannerImagePath": "IPL",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
+      "isVs": false,
       "timeStamp": "2023-07-27 03:00 PM +0500"
     },
       
@@ -35,7 +35,7 @@
       "teamBName": "Australia",
       "bannerImagePath": "IPL",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-07-27 03:00 PM +0500"
     },
@@ -47,7 +47,7 @@
       "teamBName": "West Indies",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-07-29 06:30 PM +0500"
     },
