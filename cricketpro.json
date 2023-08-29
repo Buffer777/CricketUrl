@@ -2,142 +2,39 @@
   "liveNow": [
      {
       "link": "https://pipcast.cc/embed.php?v=ptvpk&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/8rwaXVaUKfdJq31QgGtQrw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamAName": "Pakistan",
-      "teamBName": "Afghanistan",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-08-26 02:30 PM +0500"
-    },
-     {
-      "link": "https://pipcast.cc/embed.php?v=willowusa&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamAName": "Ireland",
-      "teamBName": "India",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-08-23 07:00 PM +0500"
-    },
-   
-    {
-      "link": "https://pipcast.cc/embed.php?v=asports&vw=100%&vh=100%",
-      "teamAImagePath": "https://upload.wikimedia.org/wikipedia/en/6/6a/LPL_2023_Logo.png",
-      "teamBImagePath": "https://upload.wikimedia.org/wikipedia/en/6/6a/LPL_2023_Logo.png",
-      "teamAName": "",
-      "teamBName": "",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": ""
-    },
-     
-
-    {
-      "link": "https://pipcast.cc/embed.php?v=skysmixx&vw=100%&vh=100%",
-      "teamAImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK75KUIHrSesPN4j9GQ4miaFCmdjdTtTqQpjQ7QyM&usqp=CAE&s",
-      "teamBImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK75KUIHrSesPN4j9GQ4miaFCmdjdTtTqQpjQ7QyM&usqp=CAE&s",
-      "teamAName": "Invincibles",
-      "teamBName": "Originals",
-      "bannerImagePath": "hungdred",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": ""
-    },
-      {
-      "link": "https://pipcast.cc/embed.php?v=astrocric&vw=100%&vh=100%",
-      "teamAImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK75KUIHrSesPN4j9GQ4miaFCmdjdTtTqQpjQ7QyM&usqp=CAE&s",
-      "teamBImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK75KUIHrSesPN4j9GQ4miaFCmdjdTtTqQpjQ7QyM&usqp=CAE&s",
-      "teamAName": "Invincibles",
-      "teamBName": "Originals",
-      "bannerImagePath": "hungdred",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": ""
-    },
-      
-     
-    {
-      "link": "https://pipcast.cc/embed.php?v=willowusa&vw=100%&vh=100%",
-     "teamAImagePath": "https://i0.wp.com/writeups24.com/wp-content/uploads/2023/04/338161513_962842804711759_8709348258761508931_n-1.jpg",
-      "teamBImagePath": "https://i0.wp.com/writeups24.com/wp-content/uploads/2023/04/338161513_962842804711759_8709348258761508931_n-1.jpg",
-      "teamAName": "",
-      "teamBName": "",
-      "bannerImagePath": "IPL",
-      "isWeb": true,
-      "isLive": true,
-      "isVs": true,
-      "timeStamp": ""
-    },
-    {
-      "link": "https://pipcast.cc/embed.php?v=btsp2&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/6om0X7vSyKW3Lj4AVpqWIQ_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/mlXOOB9HXxLpoeS2dHSgGA_96x96.png",
-      "teamAName": "India",
-      "teamBName": "West Indies",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-07-29 06:30 PM +0500"
-    },
-  
- {
-      "link": "https://pipcast.cc/embed.php?v=ptvpk&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamAName": "Pakistan",
-      "teamBName": "Sri Lanka",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-07-24 09:00 AM +0500"
-    },
-    {
-      "link": "https://pipcast.cc/embed.php?v=ten2endia&vw=100%&vh=100%",
-      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-6moqr0dxYpIhERhbiVLSA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamAName": "Pakistan",
-      "teamBName": "Sri Lanka",
-      "bannerImagePath": "",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-07-24 09:00 AM +0500"
-    },
-      {
-        
-      "link": "https://millionscast.com/video.php?player=desktop&live=skyscric",
-      "teamAImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamBImagePath": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/sports-ipl/ipl-logo.png",
-      "teamAName": "CSK",
-      "teamBName": "GT",
-      "bannerImagePath": "IPL",
-      "isWeb": true,
-      "isLive": false,
-      "isVs": true,
-      "timeStamp": "2023-05-29 07:00 PM +0500"
-    },
-    {
-      "link": "https://www.twitch.tv/cric_1994",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/VnSt4NnQhVxsjgNck2HkKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/FLrQ4VpsM5eSQHSadNA0SQ_96x96.png",
       "teamAName": "Pakistan",
+      "teamBName": "Nepal",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-08-30 02:30 PM +0500"
+    },
+      {
+      "link": "https://pipcast.cc/embed.php?v=bbtsp2&vw=100%&vh=100%",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/EGwD4_SUlmwZWbnHhcmTPA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_96x96.png",
+      "teamAName": "South Africa",
+      "teamBName": "Australia",
+      "bannerImagePath": "",
+      "isWeb": true,
+      "isLive": true,
+      "isVs": true,
+      "timeStamp": "2023-08-30 09:00 PM +0500"
+    },
+      {
+      "link": "https://pipcast.cc/embed.php?v=skyscric&vw=100%&vh=100%",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/X4fqKXml4MY04sfDLaIOlg_96x96.png",
+      "teamAName": "England",
       "teamBName": "New Zealand",
       "bannerImagePath": "",
-      "isWeb": false,
-      "isLive": false,
+      "isWeb": true,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": ""
+      "timeStamp": "2023-08-30 10:00 PM +0500"
     }
   ],
   "package": "com.mindbuffersports.cricpro",
