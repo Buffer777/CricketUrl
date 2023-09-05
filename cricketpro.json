@@ -2,27 +2,27 @@
   "liveNow": [
      {
       "link": "https://pipcast.cc/embed.php?v=ptvpk&vw=100%&vh=100%",
-      "teamAImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKie-yGt01LPag9lmTcW5UGZ1JU7jwLDEIg&usqp=CAU",
-      "teamBImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKie-yGt01LPag9lmTcW5UGZ1JU7jwLDEIg&usqp=CAU",
-      "teamAName": "Afghanistan",
-      "teamBName": "Srilanka",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+      "teamAName": "Pakistan",
+      "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-09-05 02:30 PM +0500"
+      "timeStamp": "2023-09-06 02:30 PM +0500"
     },
      {
       "link": "https://pipcast.cc/embed.php?v=astrocric&vw=100%&vh=100%",
-      "teamAImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKie-yGt01LPag9lmTcW5UGZ1JU7jwLDEIg&usqp=CAU",
-      "teamBImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKie-yGt01LPag9lmTcW5UGZ1JU7jwLDEIg&usqp=CAU",
-      "teamAName": "Afghanistan",
-      "teamBName": "Srilanka",
+      "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/uTQstsRqQKZC-VUZWaNi0w_96x96.png",
+      "teamAName": "Pakistan",
+      "teamBName": "Bangladesh",
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-09-05 02:30 PM +0500"
+      "timeStamp": "2023-09-06 02:30 PM +0500"
     },
     {
       "link": "https://pipcast.cc/embed.php?v=starhindi&vw=100%&vh=100%",
@@ -56,7 +56,7 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-09-05 10:00 PM +0500"
     }
