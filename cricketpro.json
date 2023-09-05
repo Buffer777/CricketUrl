@@ -56,9 +56,9 @@
       "teamBName": "New Zealand",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-09-03 06:30 PM +0500"
+      "timeStamp": "2023-09-05 10:00 PM +0500"
     }
   ],
   "package": "com.mindbuffersports.cricpro",
