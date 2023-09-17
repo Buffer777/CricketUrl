@@ -9,8 +9,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-09-17 02:30 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
      {
       "link": "https://pipcast.cc/embed.php?v=astrocric&vw=100%&vh=100%",
@@ -20,7 +20,7 @@
       "teamBName": "Sri Lanka",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-09-17 02:30 PM +0500"
     },
@@ -32,7 +32,7 @@
       "teamBName": "Sri Lanka",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": true,
       "timeStamp": "2023-09-17 02:30 PM +0500"
     },
@@ -45,8 +45,8 @@
       "bannerImagePath": "",
       "isWeb": true,
       "isLive": true,
-      "isVs": true,
-      "timeStamp": "2023-09-17 01:00 PM +0500"
+      "isVs": false,
+      "timeStamp": ""
     },
       {
       "link": "https://pipcast.cc/embed.php?v=skyscric&vw=100%&vh=100%",
