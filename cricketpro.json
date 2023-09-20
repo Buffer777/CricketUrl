@@ -44,21 +44,21 @@
       "teamBName": "Australia",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": true,
+      "isLive": false,
       "isVs": false,
       "timeStamp": ""
     },
       {
       "link": "https://pipcast.cc/embed.php?v=skyscric&vw=100%&vh=100%",
       "teamAImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/X4fqKXml4MY04sfDLaIOlg_96x96.png",
+      "teamBImagePath": "https://ssl.gstatic.com/onebox/media/sports/logos/kW8yJV655U2u-ri-00yOBg_96x96.png",
       "teamAName": "England",
-      "teamBName": "New Zealand",
+      "teamBName": "Ire Land",
       "bannerImagePath": "",
       "isWeb": true,
-      "isLive": false,
+      "isLive": true,
       "isVs": true,
-      "timeStamp": "2023-09-15 04:30 PM +0500"
+      "timeStamp": "2023-09-20 03:00 PM +0500"
     }
   ],
   "package": "com.mindbuffersports.cricpro",
